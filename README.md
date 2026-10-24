@@ -2,8 +2,6 @@
 <a href='https://www.linkedin.com/in/kavinkumar-e-728697329/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
-
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
@@ -28,16 +26,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
 
-### 📊 GitHub Stats
-<a href="https://github.com/kavinkk2425/github-stats-transparent">
-  <img src="https://raw.githubusercontent.com/kavinkk2425/github-stats-transparent/output/generated/overview.svg" alt="Stats Overview" width="48%" />
-  <img src="https://raw.githubusercontent.com/kavinkk2425/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages" width="48%" />
-</a>
-
-
-
-<br>
 
 

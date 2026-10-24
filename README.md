@@ -11,14 +11,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 
-<br>
-<hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
-<br>
+
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
@@ -36,5 +29,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 
-
+<hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
 

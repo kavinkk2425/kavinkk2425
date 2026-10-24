@@ -8,7 +8,18 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 
+
+
+<br>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+</br>
+
+
+
+
+
 
 
 
@@ -28,11 +39,4 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-
-<hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
 

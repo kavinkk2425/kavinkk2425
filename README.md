@@ -6,7 +6,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="personal_note.svg" />
+  <img height="50" alt="My Name is kavin and I like Node.js" src="personal_note.svg" />
   <br />
   <br />
 
@@ -47,6 +47,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 </br>
+
+
+
+
 
 
 
